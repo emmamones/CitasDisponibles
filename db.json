@@ -12,7 +12,8 @@
       "desparacitacion":false,
       "estetica":true,
       "mascota":"valentina",
-      "disponible": false
+      "disponible": false,
+      "extras":"no le corten las orejas"
     } ,
     {
         "id": 3,
@@ -26,7 +27,8 @@
         "desparacitacion":false,
         "estetica":true,
         "mascota":"",
-        "disponible": true
+        "disponible": true,
+        "extras":""
       } ,
       {
         "id": 3,
@@ -40,6 +42,7 @@
         "desparacitacion":false,
         "estetica":true,
         "mascota":"",
-        "disponible": true
+        "disponible": true,
+        "extras":""
       } 
   ]}
