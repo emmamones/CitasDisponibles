@@ -1,0 +1,45 @@
+{
+    "citasDisponiblesData" : [
+    {
+      "id": 1,
+      "fecha":"2019-07-06",
+      "hora": "13:00",
+      "idUser":"",
+      "userName":"",
+      "domicilioEntrega":"",
+      "telefono":"",
+      "bano":true,
+      "desparacitacion":false,
+      "estetica":true,
+      "mascota":"",
+      "disponible": true
+    } ,
+    {
+        "id": 3,
+        "fecha":"2019-07-06",
+        "hora": "13:00",
+        "idUser":"",
+        "userName":"",
+        "domicilioEntrega":"",
+        "telefono":"",
+        "bano":true,
+        "desparacitacion":false,
+        "estetica":true,
+        "mascota":"",
+        "disponible": true
+      } ,
+      {
+        "id": 3,
+        "fecha":"2019-07-06",
+        "hora": "13:00",
+        "idUser":"",
+        "userName":"",
+        "domicilioEntrega":"",
+        "telefono":"",
+        "bano":true,
+        "desparacitacion":false,
+        "estetica":true,
+        "mascota":"",
+        "disponible": true
+      } 
+  ]}
