@@ -4,15 +4,15 @@
       "id": 1,
       "fecha":"2019-07-06",
       "hora": "13:00",
-      "idUser":"",
-      "userName":"",
-      "domicilioEntrega":"",
-      "telefono":"",
+      "idUser":"1",
+      "userName":"ramomex1",
+      "domicilioEntrega":"casi de perrito",
+      "telefono":"000000",
       "bano":true,
       "desparacitacion":false,
       "estetica":true,
-      "mascota":"",
-      "disponible": true
+      "mascota":"valentina",
+      "disponible": false
     } ,
     {
         "id": 3,
