@@ -1,4 +1,20 @@
-{
+{  "usersData" : [
+    {
+      "id": 1,
+      "idUser":"1",
+      "userName":"ramomex1",
+      "domicilioEntrega":"casi de perrito",
+      "telefono":"44922334",
+       "isAdmin":false
+      },
+     {
+      "id": 2,
+      "idUser":"1",
+      "userName":"omar",
+      "domicilioEntrega":"a la ver",
+      "telefono":"44922334",
+       "isAdmin":true
+      }],
     "citasDisponiblesData" : [
     {
       "id": 1,
